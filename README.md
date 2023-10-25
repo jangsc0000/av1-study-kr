@@ -1,1 +1,2 @@
-# AV1 Video Codec
+# AV1 비디오 코덱 스터디
+
